@@ -1,0 +1,42 @@
+# Core OCR and Image Processing
+easyocr==1.7.0
+opencv-python==4.8.1.78
+Pillow==10.0.1
+
+# PDF Processing
+PyMuPDF==1.23.8
+
+# Scientific Computing
+numpy==1.24.3
+
+# Deep Learning Backend (required by EasyOCR)
+torch==2.0.1
+torchvision==0.15.2
+
+# Image Processing Dependencies
+scipy==1.11.1
+scikit-image==0.21.0
+
+# Text Processing
+python-bidi==0.4.2
+
+# Geometry and Processing
+shapely==2.0.1
+pyclipper==1.3.0
+
+# Utilities
+psutil==5.9.5
+filelock==3.12.2
+fsspec==2023.9.2
+PyYAML==6.0.1
+sympy==1.12
+mpmath==1.3.0
+networkx==3.1
+jinja2==3.1.2
+markupsafe==2.1.3
+lazy-loader==0.3
+typing-extensions==4.7.1
+packaging==23.1
+
+# Development and Build Tools
+ninja==1.11.1 
